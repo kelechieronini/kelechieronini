@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eronini
-- 👀 I’m interested in frontend web development 
+- 👀 I’m interested in frontend web development and Backend in the nearest future
 - 🌱 I’m currently learning HTML,CSS,JavaScript 
 - 💞️ I’m looking to collaborate on Frontend projects.
 - 📫 How to reach me kelechieronini@yahoo.com
