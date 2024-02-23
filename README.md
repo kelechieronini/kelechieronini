@@ -8,7 +8,6 @@ I am a diligent programmer with extensive experience in frontend web development
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [kelechieronini@yahoo.com](mailto:kelechieronini@yahoo.com)
-* 🧠  I'm learning React.js
 * 🤝  I'm open to collaborating on Interesting/Challenging projects
 
 ### Skills
